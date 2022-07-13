@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984476661501",
+    "project_id": "lalalalala-5154c",
+    "storage_bucket": "lalalalala-5154c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984476661501:android:fda0d2d8c0e399633cb094",
+        "android_client_info": {
+          "package_name": "com.nonce.lalalala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984476661501-i5b23bdrkcnmlc0h04sgtpg82v0q5aa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGLsDLPDgZPUlbKdqeLv8v6LN0YphP13E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984476661501-i5b23bdrkcnmlc0h04sgtpg82v0q5aa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
